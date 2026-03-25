@@ -11,6 +11,8 @@ Blackjack coded in python using simple/easy to understand language.
 
 
 -WHAT I LOVE ABOUT IT-
-1.the fact that your money balance saves even after you finished the program
-2.aftek you get an ace and your cards value go above 21 ace value will be set to 1
-3.easy to understand menu at the start of the program
+1. the fact that your money balance saves even after you finished the program
+2. aftek you get an ace and your cards value go above 21 ace value will be set to 1
+3. easy to understand menu at the start of the program
+
+If you have any questions feel free to ask me :)
